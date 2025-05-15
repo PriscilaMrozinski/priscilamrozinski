@@ -1,6 +1,6 @@
 # Olá, sou Priscila Lins Mrozinski 👋
 
-🌱 Estou por aqui explorando e mergulhando neste incrível universo da programação. 
+🌱 Estou por aqui explorando e mergulhando nesse incrível universo da programação. 
 
 ⚡ Vamos lá!
 
