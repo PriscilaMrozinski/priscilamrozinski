@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá, sou Priscila Lins Mrozinski 👋
+
+## Estou por aqui explorando e mergulhando neste incrível universo da programação. Vamos lá!🌱
 
 <!--
 **PriscilaMrozinski/priscilamrozinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
