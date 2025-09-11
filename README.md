@@ -6,11 +6,11 @@
 
 
 - 📫 SQL, Certificação ICS 2023
-- 📫 Desenvolvimento de Softwares - Fatec, em curso desde 2024
+- 📫 Desenvolvimento de Softwares - Fatec, em curso (2024-2027)
+- 🌱 FullStack Java, em curso Generation Brasil (setembro a dezembro, 2025)
 - 🌱 Análise de Dados - Fundação Bradesco, curso complementar 2025
 - 🌱 Python - Fundação Bradesco, curso complementar 2025
-- 🌱 Fundamentos de Dados e Inteligência Artificial - Programa Desenvolve do Grupo Boticário 2025
-- 🌱 Elas na IA - Programa Microsoft 2025  
+- 
 
 
 <!--
