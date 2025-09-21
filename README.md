@@ -10,7 +10,6 @@
 - 🌱 FullStack Java, em curso Generation Brasil (setembro a dezembro, 2025)
 - 🌱 Análise de Dados - Fundação Bradesco, curso complementar 2025
 - 🌱 Python - Fundação Bradesco, curso complementar 2025
-- 
 
 
 <!--
