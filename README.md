@@ -4,10 +4,10 @@
 
 ⚡ Let's go! <br><br>
 
-
 - 📫 SQL, Certificação ICS 2023
 - 📫 Desenvolvimento de Softwares - Fatec, em curso (2024-2027)
-- 🌱 FullStack Java, em curso Generation Brasil (setembro a dezembro, 2025)
+- 🌱 FullStack Java, em curso, Generation Brasil (setembro a dezembro, 2025)
+- 🌱 Análise de Dados com Python - em curso, Reprograma (agosto a novembro, 2025)
 - 🌱 Análise de Dados - Fundação Bradesco, curso complementar 2025
 - 🌱 Python - Fundação Bradesco, curso complementar 2025
 
