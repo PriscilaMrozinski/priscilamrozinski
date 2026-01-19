@@ -10,6 +10,7 @@
 - 🌱 Análise de Dados com Python - Bootcamp Reprograma (agosto a dezembro, 2025)
 - 🌱 Análise de Dados - Fundação Bradesco, curso complementar 2025
 - 🌱 Python - Fundação Bradesco, curso complementar 2025
+  
 
 ⚡Portifólio: priscilamrozinski.github.io/portifolio_vprojetos/
 
