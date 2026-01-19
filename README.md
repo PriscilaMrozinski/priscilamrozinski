@@ -9,20 +9,23 @@
 - 🌱 FullStack Java, Bootcamp Generation Brasil (setembro a dezembro, 2025)
 - 🌱 Análise de Dados com Python - Bootcamp Reprograma (agosto a dezembro, 2025)
 - 🌱 Análise de Dados - Fundação Bradesco, curso complementar 2025
-- 🌱 Python - Fundação Bradesco, curso complementar 2025 <br><br>
+- 🌱 Python - Fundação Bradesco, curso complementar 2025
 
+<br>
+<div align="left"> 
 
-### 🛠️ Tecnologias
-
-<div align="center"> 
-   <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5" alt="HTML Badge" /> 
-   <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" /> 
-   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" /> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  
+   ### 🛠️ Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60"/>
 </div>
 
-⚡Portifólio: [Acesse aqui] (https://priscilamrozinski.github.io/portifolio_vprojetos/)
+<br><br>
+⚡Portifólio: https://priscilamrozinski.github.io/portifolio_vprojetos/
 
 
 <!--
