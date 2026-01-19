@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Tecnologia%20que%20transforma&fontSize=60">
+
 # Olá, sou Priscila Lins Mrozinski 👋
 
 🔭 Estou por aqui explorando e mergulhando neste incrível universo da tecnologia e da programação. 
@@ -25,7 +27,9 @@
 </div>
 
 <br><br>
-⚡Portifólio: https://priscilamrozinski.github.io/portifolio_vprojetos/
+⚡Portifólio: https://priscilamrozinski.github.io/portifolio_vprojetos/ <br>
+⚡Linkedin: https://www.linkedin.com/in/priscila-lins/
+
 
 
 <!--
@@ -41,4 +45,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=priscilamrozinski&show_icons=true&theme=default" />
+
 -->
