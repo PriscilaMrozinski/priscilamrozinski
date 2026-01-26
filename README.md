@@ -44,6 +44,9 @@ ___
 - 💠 **SmartRH (Front-end)** (React, Vercel): https://smart-rh-two.vercel.app/
 - 💠 **SmartRH (Back-end)** (Java, MySQL, API/Swagger): https://smart-rh-backend.onrender.com/swagger-ui/swagger-ui/index.html
 
+- 🤖 **Chatbot PetShop (em desenvolvimento)**: https://github.com/PriscilaMrozinski/chatbot_recantopet
+
+
 
 
 <!--
