@@ -38,13 +38,13 @@ ___
 - ✨ **Blog Profissional** (React, Vercel): https://blogpessoal-rouge.vercel.app
 - ✨ **Clima Tempo** ☁️ (HTML, CSS, JavaScript): https://priscilamrozinski.github.io/projeto_clima/
 - ✨ **Farmácia** (React, Vercel): https://projeto-final-bloco-03-mu.vercel.app/
-
 - 💠 **MindMove (Front-end)** (React, JavaScript): https://mind-move-frontend.vercel.app
 - 💠 **MindMove (Back-end)** (Java, MySQL, API/Swagger): https://mindmove-backend.onrender.com
 - 💠 **SmartRH (Front-end)** (React, Vercel): https://smart-rh-two.vercel.app/
 - 💠 **SmartRH (Back-end)** (Java, MySQL, API/Swagger): https://smart-rh-backend.onrender.com/swagger-ui/swagger-ui/index.html
-
+- 💠 **Garden Center (Back-end)** (Java, MySQL): https://github.com/PriscilaMrozinski/gardencenter_spring
 - 🤖 **Chatbot PetShop (em desenvolvimento)**: https://github.com/PriscilaMrozinski/chatbot_recantopet
+  
 
 
 
