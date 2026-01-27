@@ -44,6 +44,7 @@ ___
 - 💠 **SmartRH (Back-end)** (Java, MySQL, API/Swagger): https://smart-rh-backend.onrender.com
 - 💠 **Garden Center (Back-end)** (Java, MySQL): https://github.com/PriscilaMrozinski/gardencenter_spring
 - 🤖 **Chatbot PetShop (em desenvolvimento)**: https://github.com/PriscilaMrozinski/chatbot_recantopet
+- 🤖 **Memória Local, Raízes Urbanas (OCR para transformar imagens em texto pesquisável)**: https://github.com/PriscilaMrozinski/projeto_ocr/tree/main
   
 
 
