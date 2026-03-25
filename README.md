@@ -34,6 +34,7 @@
 ___
 
 ### 🌐 Projetos
+- ✨ **Wonderful Vision - captura imagem e transforma em aúdio** (Python, Flask, OpenAI API, pyttsx3, HTML e Base64): https://github.com/PriscilaMrozinski/wonderful-vision
 - ✨ **Gerador de QR Code** (HTML, CSS, JavaScript, qrcode.js): https://priscilamrozinski.github.io/qrcode/
 - ✨ **Blog Profissional** (React, Vercel): https://blogpessoal-rouge.vercel.app
 - ✨ **Clima Tempo** ☁️ (HTML, CSS, JavaScript): https://priscilamrozinski.github.io/projeto_clima/
