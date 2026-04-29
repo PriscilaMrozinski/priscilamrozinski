@@ -34,6 +34,7 @@
 ___
 
 ### 🌐 Projetos
+- ✨**Verde de Vó - PLN para busca inteligente de plantas medicinais** (Python, Flask, NLTK, RSLPStemmer, JavaScript, HTML, Tailwind CSS, Chart.js, JSON): https://github.com/PriscilaMrozinski/verdedevo
 - ✨ **Wonderful Vision - captura imagem e transforma em aúdio** (Python, Flask, OpenAI API, pyttsx3, HTML e Base64): https://github.com/PriscilaMrozinski/wonderful-vision
 - ✨ **Gerador de QR Code** (HTML, CSS, JavaScript, qrcode.js): https://priscilamrozinski.github.io/qrcode/
 - ✨ **Blog Profissional** (React, Vercel): https://blogpessoal-rouge.vercel.app
