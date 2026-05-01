@@ -6,12 +6,12 @@
 
 ⚡ Let's go! <br><br>
 
-- 📫 SQL, Certificação ICS 2023
-- 📫 Desenvolvimento de Softwares - Fatec, em curso (2024-2027)
-- 🌱 FullStack Java, Bootcamp Generation Brasil (setembro a dezembro, 2025)
-- 🌱 Análise de Dados com Python - Bootcamp Reprograma (agosto a dezembro, 2025)
-- 🌱 Análise de Dados - Fundação Bradesco, curso complementar 2025
-- 🌱 Python - Fundação Bradesco, curso complementar 2025
+- 📫 Tecnólogo Desenvolvimento de Softwares - Fatec, em curso (2024-2027)
+- 📫 Certificação SQL, ICS 2023
+- 🌱 Bootcamp FullStack Java, Generation Brasil (setembro a dezembro, 2025)
+- 🌱 Bootcamp Análise de Dados com Python, Reprograma (agosto a dezembro, 2025)
+- 🌱 Curso Análise de Dados - Fundação Bradesco, curso complementar 2025
+- 🌱 Curso Python - Fundação Bradesco, curso complementar 2025
 
 <br>
 <div align="left"> 
@@ -46,7 +46,8 @@ ___
 - 💠 **SmartRH (Back-end)** (Java, MySQL, API/Swagger): https://smart-rh-backend.onrender.com
 - 💠 **Garden Center (Back-end)** (Java, MySQL): https://github.com/PriscilaMrozinski/gardencenter_spring
 - 🤖 **Chatbot PetShop (em desenvolvimento)**: https://github.com/PriscilaMrozinski/chatbot_recantopet
-- 🤖 **Memória Local, Raízes Urbanas (OCR para transformar imagens em texto pesquisável)**: https://github.com/PriscilaMrozinski/projeto_ocr/tree/main
+- 🤖 **Memória Local, Raízes Urbanas (OCR para transformar imagens em texto pesquisável)**: https://github.com/PriscilaMrozinski/projeto_ocr/tree/main)
+- 🤖 **Mapa Orbital** (análise de dados referente aos satélites terrestres): https://datastudio.google.com/reporting/8c268497-d7a1-410e-b67d-d103336fe093
   
 
 
